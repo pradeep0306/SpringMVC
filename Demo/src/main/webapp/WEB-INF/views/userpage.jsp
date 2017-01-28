@@ -8,5 +8,6 @@
 </head>
 <body>
 Data : ${result }
+<p>GIT PUSH UPSTREAM</p>
 </body>
 </html>
